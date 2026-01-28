@@ -1,0 +1,33 @@
+# McLaren Artura Generations Data
+# Vehicle: McLaren Artura
+# Source: https://en.wikipedia.org/wiki/McLaren_Artura
+# Last Updated: 2026-01-28
+
+references:
+  - "https://en.wikipedia.org/wiki/McLaren_Artura"
+
+generations:
+  - name: "First Generation"
+    start_year: 2022
+    end_year: null  # Still in production
+    description: |
+      First generation McLaren Artura, a plug-in hybrid electric sports car featuring
+      an all-new M630 twin-turbocharged 120-degree V6 engine paired with an axial flux
+      electric motor. Available as both a 2-door coupe and 2-door roadster (Spider).
+      Built on the new MCLA (McLaren Carbon Lightweight Architecture) carbon fiber platform,
+      representing a new era for McLaren with its first V6 engine and PHEV drivetrain.
+    platform: "MCLA (McLaren Carbon Lightweight Architecture)"
+    body_styles:
+      - "Coupe"
+      - "Roadster (Spider)"
+    engine: "M630 twin-turbocharged 120° V6"
+    transmission: "8-speed dual-clutch (SSG Seamless Shift Gearbox) + E-Reverse"
+    drivetrain: "Rear mid-engine, rear-wheel drive (PHEV)"
+    electric_motor: "Axial Flux E-Motor"
+    battery: "7.4 kWh Li-ion"
+    predecessor: "McLaren 570S"
+    notes: |
+      - Introduced new carbon fiber chassis (MCLA)
+      - First production V6 with 120-degree bank angle
+      - Features electronic differential (e-diff) - first for modern McLaren
+      - Electric motor replaces traditional reverse gear
